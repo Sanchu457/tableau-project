@@ -30,3 +30,6 @@ Use the Saved Sample – Superstore dataset. Create a bullet chart with Category
 ![2022-04-29 (1)](https://user-images.githubusercontent.com/95237822/165825493-385918cb-81e1-4482-8a47-7885a4f17122.png)
 ![2022-04-29 (2)](https://user-images.githubusercontent.com/95237822/165825518-408ff2b0-82b7-418a-868a-b2b5dbd2801a.png)
 ![2022-04-29](https://user-images.githubusercontent.com/95237822/165825527-ec560ed1-1d27-40db-9f37-056fae082eee.png)
+
+Over all project file[Project  Sales Performance Analysis.pdf](https://github.com/Sanchu457/tableau-project/files/8585568/Project.Sales.Performance.Analysis.pdf)
+
